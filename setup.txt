@@ -1,0 +1,7 @@
+install ruby
+gem install selenium-webdriver
+install chrome driver
+run the script with `ruby windy.rb`
+-----------------------------------
+
+urls are added as key value pairs in urls.rb . You can add more as you want. key defines the name of file.
